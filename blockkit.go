@@ -1,5 +1,5 @@
 package blockkit
 
-type ok interface {
-	OK() error
+type OK interface {
+	//OK() error
 }
